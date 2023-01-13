@@ -13,7 +13,7 @@
 ### Connet with me:
 
 [<img align="left" alt="Ekaterinahi | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="Ekaterinahi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
 
 <br />
 <br />
@@ -28,6 +28,6 @@
 <br />
 
 [vk]: https://vk.com/id40556328
-[telegam]: https://t.me/Stopmoo
+
 
 <br />
