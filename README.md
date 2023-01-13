@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Kate
 
+<br />
+
 ## I'm a QA Automation engineer, junior
 - :mechanical_arm: I like to write code
 - :computer: I write code according to the principles of OOP
@@ -14,6 +16,7 @@
 [<img align="left" alt="Ekaterinahi | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
 
 #### Languages and Tools:
 
@@ -25,4 +28,6 @@
 <br />
 
 [vk]: https://vk.com/id40556328
-[telegam]: t.me/Stopmoo
+[telegam]: https://t.me/Stopmoo
+
+<br />
